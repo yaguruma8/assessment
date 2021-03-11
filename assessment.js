@@ -12,6 +12,7 @@ const answers = [
     '{username}のいいところは節度です。強引すぎない{username}の考えに皆が共感します。',
     '{username}のいいところは好奇心です。新しいことに向かっていく{username}が魅力的に映ります。',
     '{username}のいいところは自制心です。しっかりと衝動を抑えられる{username}が評価されています。',
+    '{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒やされています。',
 ];
 
 const userNameInput = document.getElementById('user-name');
